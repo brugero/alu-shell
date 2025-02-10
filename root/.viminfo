@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1738262955,,"wq"
+|2,0,1739171579,,"wq"
+:wqq
+|2,0,1739170425,,"wqq"
+:q!
+|2,0,1738268794,,"q!"
 :qa
 |2,0,1737625330,,"qa"
 
@@ -30,230 +34,415 @@
 |3,1,36,0,1,0,1737625046,"S"
 
 # File marks:
-'0  2  25  ~/basics/17-tree
-|4,48,2,25,1738262955,"~/basics/17-tree"
-'1  2  4  ~/basics/16-clean_emacs
-|4,49,2,4,1738262831,"~/basics/16-clean_emacs"
-'2  2  62  ~/basics/15-lets_move
-|4,50,2,62,1738262704,"~/basics/15-lets_move"
-'3  2  14  ~/basics/14-copy_html
-|4,51,2,14,1738262616,"~/basics/14-copy_html"
-'4  2  14  ~/basics/14-copy_html
-|4,52,2,14,1738262534,"~/basics/14-copy_html"
-'5  2  19  ~/basics/13-symbolic_link
-|4,53,2,19,1738262327,"~/basics/13-symbolic_link"
-'6  2  17  ~/basics/12-file_type
-|4,54,2,17,1738262131,"~/basics/12-file_type"
-'7  4  11  ~/basics/11-lists
-|4,55,4,11,1738261984,"~/basics/11-lists"
-'8  2  3  ~/basics/10-back
-|4,56,2,3,1738261772,"~/basics/10-back"
-'9  2  28  ~/basics/9-firstdirdeletion
-|4,57,2,28,1738261613,"~/basics/9-firstdirdeletion"
+'0  1  0  /.git/MERGE_MSG
+|4,48,1,0,1739171579,"/.git/MERGE_MSG"
+'1  2  0  /permissions/.git/MERGE_MSG
+|4,49,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+'2  4  0  /permissions/16-if_only
+|4,50,4,0,1739170438,"/permissions/16-if_only"
+'3  2  28  /permissions/15-symbolic_link_permissions
+|4,51,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+'4  2  20  /permissions/14-change_owner_and_group
+|4,52,2,20,1739170242,"/permissions/14-change_owner_and_group"
+'5  2  17  /permissions/13-change_group
+|4,53,2,17,1739170152,"/permissions/13-change_group"
+'6  3  15  /permissions/12-directory_permissions
+|4,54,3,15,1739170029,"/permissions/12-directory_permissions"
+'7  2  35  /permissions/11-directories_permissions
+|4,55,2,35,1739169849,"/permissions/11-directories_permissions"
+'8  2  28  /permissions/10-mirror_permissions
+|4,56,2,28,1739169649,"/permissions/10-mirror_permissions"
+'9  2  14  /permissions/9-John_Doe
+|4,57,2,14,1739169413,"/permissions/9-John_Doe"
 
 # Jumplist (newest first):
--'  2  25  ~/basics/17-tree
-|4,39,2,25,1738262955,"~/basics/17-tree"
--'  1  0  ~/basics/17-tree
-|4,39,1,0,1738262899,"~/basics/17-tree"
--'  2  4  ~/basics/16-clean_emacs
-|4,39,2,4,1738262831,"~/basics/16-clean_emacs"
--'  2  4  ~/basics/16-clean_emacs
-|4,39,2,4,1738262831,"~/basics/16-clean_emacs"
--'  1  0  ~/basics/16-clean_emacs
-|4,39,1,0,1738262796,"~/basics/16-clean_emacs"
--'  1  0  ~/basics/16-clean_emacs
-|4,39,1,0,1738262796,"~/basics/16-clean_emacs"
--'  2  62  ~/basics/15-lets_move
-|4,39,2,62,1738262704,"~/basics/15-lets_move"
--'  2  62  ~/basics/15-lets_move
-|4,39,2,62,1738262704,"~/basics/15-lets_move"
--'  2  62  ~/basics/15-lets_move
-|4,39,2,62,1738262704,"~/basics/15-lets_move"
--'  2  62  ~/basics/15-lets_move
-|4,39,2,62,1738262704,"~/basics/15-lets_move"
--'  1  0  ~/basics/15-lets_move
-|4,39,1,0,1738262667,"~/basics/15-lets_move"
--'  1  0  ~/basics/15-lets_move
-|4,39,1,0,1738262667,"~/basics/15-lets_move"
--'  1  0  ~/basics/15-lets_move
-|4,39,1,0,1738262667,"~/basics/15-lets_move"
--'  1  0  ~/basics/15-lets_move
-|4,39,1,0,1738262667,"~/basics/15-lets_move"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262616,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  2  14  ~/basics/14-copy_html
-|4,39,2,14,1738262534,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  1  0  ~/basics/14-copy_html
-|4,39,1,0,1738262500,"~/basics/14-copy_html"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  2  19  ~/basics/13-symbolic_link
-|4,39,2,19,1738262327,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
--'  1  0  ~/basics/13-symbolic_link
-|4,39,1,0,1738262283,"~/basics/13-symbolic_link"
+-'  1  0  /.git/MERGE_MSG
+|4,39,1,0,1739171579,"/.git/MERGE_MSG"
+-'  2  0  /permissions/.git/MERGE_MSG
+|4,39,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+-'  2  0  /permissions/.git/MERGE_MSG
+|4,39,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+-'  1  0  /permissions/.git/MERGE_MSG
+|4,39,1,0,1739171460,"/permissions/.git/MERGE_MSG"
+-'  1  0  /permissions/.git/MERGE_MSG
+|4,39,1,0,1739171460,"/permissions/.git/MERGE_MSG"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  1  0  /permissions/14-change_owner_and_group
+|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  2  17  /permissions/13-change_group
+|4,39,2,17,1739170152,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
+-'  1  0  /permissions/13-change_group
+|4,39,1,0,1739170125,"/permissions/13-change_group"
 
 # History of marks within files (newest to oldest):
+
+> /.git/MERGE_MSG
+	*	1739171576	0
+	"	1	0
+
+> /permissions/.git/MERGE_MSG
+	*	1739171473	0
+	"	2	0
+
+> /permissions/16-if_only
+	*	1739170435	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	4	0
+
+> /permissions/15-symbolic_link_permissions
+	*	1739170328	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> /permissions/14-change_owner_and_group
+	*	1739170240	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	2	20
+
+> /permissions/13-change_group
+	*	1739170149	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> /permissions/12-directory_permissions
+	*	1739170024	0
+	"	3	15
+	^	3	16
+	.	3	15
+	+	3	15
+
+> /permissions/11-directories_permissions
+	*	1739169846	0
+	"	2	35
+	^	2	36
+	.	2	35
+	+	2	35
+
+> /permissions/10-mirror_permissions
+	*	1739169645	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	28
+
+> /permissions/9-John_Doe
+	*	1739169410	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /permissions/8-James_Bond
+	*	1739169279	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /permissions/7-everybody
+	*	1739169146	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> /permissions/6-multiple_permissions
+	*	1739169063	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	2	19
+
+> /permissions/5-execute
+	*	1739168943	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /permissions/4-empty
+	*	1739168852	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> /permissions/3-new_owner
+	*	1739168791	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> /permissions/2-groups
+	*	1739168680	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> /permissions/1-who_am_i
+	*	1739168562	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> /permissions/0-iam_betty
+	*	1739168410	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> /alu-zero_day/git/bash/best
+	*	1738268849	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> bash/best
+	*	1738268304	0
+	"	1	0
+
+> /alu-zero_day/.gitignore
+	*	1738267567	0
+	"	1	1
+	^	1	2
+	.	1	2
+	+	1	2
+
+> /alu-zero_day/.git/MERGE_MSG
+	*	1738267378	0
+	"	1	0
+
+> /alu-zero_day/git/.gitignore
+	*	1738267202	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	49
+	+	1	0
+
+> ~/basics/15-lets_move
+	*	1738266281	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/basics/11-lists
+	*	1738265902	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	17
+	+	2	16
+
+> ~/.git/MERGE_MSG
+	*	1738265778	0
+	"	5	69
+	^	5	70
+
+> ~/basics/README.md
+	*	1738265641	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
 > ~/basics/17-tree
 	*	1738262952	0
@@ -268,13 +457,6 @@
 	^	2	5
 	.	2	4
 	+	2	4
-
-> ~/basics/15-lets_move
-	*	1738262701	0
-	"	2	62
-	^	2	63
-	.	2	62
-	+	2	62
 
 > ~/basics/14-copy_html
 	*	1738262610	0
@@ -296,13 +478,6 @@
 	^	2	18
 	.	2	17
 	+	2	17
-
-> ~/basics/11-lists
-	*	1738261962	0
-	"	4	11
-	^	4	12
-	.	4	11
-	+	4	11
 
 > ~/basics/10-back
 	*	1738261770	0
@@ -389,17 +564,6 @@
 	.	1	2
 	+	4	44
 	+	1	2
-
-> /alu-zero_day/.git/MERGE_MSG
-	*	1737625324	0
-	"	5	0
-
-> /alu-zero_day/git/bash/best
-	*	1737625053	0
-	"	2	6
-	^	2	7
-	.	2	7
-	+	2	7
 
 > /alu-zero_day/bash/best
 	*	1737623890	0
