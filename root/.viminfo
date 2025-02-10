@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739171579,,"wq"
+|2,0,1739173098,,"wq"
 :wqq
 |2,0,1739170425,,"wqq"
 :q!
@@ -34,34 +34,48 @@
 |3,1,36,0,1,0,1737625046,"S"
 
 # File marks:
-'0  1  0  /.git/MERGE_MSG
-|4,48,1,0,1739171579,"/.git/MERGE_MSG"
-'1  2  0  /permissions/.git/MERGE_MSG
-|4,49,2,0,1739171480,"/permissions/.git/MERGE_MSG"
-'2  4  0  /permissions/16-if_only
-|4,50,4,0,1739170438,"/permissions/16-if_only"
-'3  2  28  /permissions/15-symbolic_link_permissions
-|4,51,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
-'4  2  20  /permissions/14-change_owner_and_group
-|4,52,2,20,1739170242,"/permissions/14-change_owner_and_group"
-'5  2  17  /permissions/13-change_group
-|4,53,2,17,1739170152,"/permissions/13-change_group"
-'6  3  15  /permissions/12-directory_permissions
-|4,54,3,15,1739170029,"/permissions/12-directory_permissions"
-'7  2  35  /permissions/11-directories_permissions
-|4,55,2,35,1739169849,"/permissions/11-directories_permissions"
-'8  2  28  /permissions/10-mirror_permissions
-|4,56,2,28,1739169649,"/permissions/10-mirror_permissions"
-'9  2  14  /permissions/9-John_Doe
-|4,57,2,14,1739169413,"/permissions/9-John_Doe"
+'0  3  0  /.gitignore
+|4,48,3,0,1739173098,"/.gitignore"
+'1  1  0  /.git/MERGE_MSG
+|4,49,1,0,1739171579,"/.git/MERGE_MSG"
+'2  2  0  /permissions/.git/MERGE_MSG
+|4,50,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+'3  4  0  /permissions/16-if_only
+|4,51,4,0,1739170438,"/permissions/16-if_only"
+'4  2  28  /permissions/15-symbolic_link_permissions
+|4,52,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+'5  2  20  /permissions/14-change_owner_and_group
+|4,53,2,20,1739170242,"/permissions/14-change_owner_and_group"
+'6  2  17  /permissions/13-change_group
+|4,54,2,17,1739170152,"/permissions/13-change_group"
+'7  3  15  /permissions/12-directory_permissions
+|4,55,3,15,1739170029,"/permissions/12-directory_permissions"
+'8  2  35  /permissions/11-directories_permissions
+|4,56,2,35,1739169849,"/permissions/11-directories_permissions"
+'9  2  28  /permissions/10-mirror_permissions
+|4,57,2,28,1739169649,"/permissions/10-mirror_permissions"
 
 # Jumplist (newest first):
+-'  3  0  /.gitignore
+|4,39,3,0,1739173098,"/.gitignore"
+-'  1  0  /.gitignore
+|4,39,1,0,1739173079,"/.gitignore"
+-'  1  0  /.git/MERGE_MSG
+|4,39,1,0,1739171579,"/.git/MERGE_MSG"
 -'  1  0  /.git/MERGE_MSG
 |4,39,1,0,1739171579,"/.git/MERGE_MSG"
 -'  2  0  /permissions/.git/MERGE_MSG
 |4,39,2,0,1739171480,"/permissions/.git/MERGE_MSG"
 -'  2  0  /permissions/.git/MERGE_MSG
 |4,39,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+-'  2  0  /permissions/.git/MERGE_MSG
+|4,39,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+-'  2  0  /permissions/.git/MERGE_MSG
+|4,39,2,0,1739171480,"/permissions/.git/MERGE_MSG"
+-'  1  0  /permissions/.git/MERGE_MSG
+|4,39,1,0,1739171460,"/permissions/.git/MERGE_MSG"
+-'  1  0  /permissions/.git/MERGE_MSG
+|4,39,1,0,1739171460,"/permissions/.git/MERGE_MSG"
 -'  1  0  /permissions/.git/MERGE_MSG
 |4,39,1,0,1739171460,"/permissions/.git/MERGE_MSG"
 -'  1  0  /permissions/.git/MERGE_MSG
@@ -74,6 +88,22 @@
 |4,39,4,0,1739170438,"/permissions/16-if_only"
 -'  4  0  /permissions/16-if_only
 |4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  4  0  /permissions/16-if_only
+|4,39,4,0,1739170438,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
+-'  1  0  /permissions/16-if_only
+|4,39,1,0,1739170391,"/permissions/16-if_only"
 -'  1  0  /permissions/16-if_only
 |4,39,1,0,1739170391,"/permissions/16-if_only"
 -'  1  0  /permissions/16-if_only
@@ -98,6 +128,38 @@
 |4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
 -'  2  28  /permissions/15-symbolic_link_permissions
 |4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  2  28  /permissions/15-symbolic_link_permissions
+|4,39,2,28,1739170331,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
+-'  1  0  /permissions/15-symbolic_link_permissions
+|4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
 -'  1  0  /permissions/15-symbolic_link_permissions
 |4,39,1,0,1739170283,"/permissions/15-symbolic_link_permissions"
 -'  1  0  /permissions/15-symbolic_link_permissions
@@ -146,6 +208,38 @@
 |4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
 -'  2  20  /permissions/14-change_owner_and_group
 |4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
+-'  2  20  /permissions/14-change_owner_and_group
+|4,39,2,20,1739170242,"/permissions/14-change_owner_and_group"
 -'  1  0  /permissions/14-change_owner_and_group
 |4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
 -'  1  0  /permissions/14-change_owner_and_group
@@ -162,102 +256,15 @@
 |4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
 -'  1  0  /permissions/14-change_owner_and_group
 |4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  1  0  /permissions/14-change_owner_and_group
-|4,39,1,0,1739170205,"/permissions/14-change_owner_and_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  2  17  /permissions/13-change_group
-|4,39,2,17,1739170152,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
--'  1  0  /permissions/13-change_group
-|4,39,1,0,1739170125,"/permissions/13-change_group"
 
 # History of marks within files (newest to oldest):
+
+> /.gitignore
+	*	1739173095	0
+	"	3	0
+	^	3	0
+	.	2	14
+	+	2	14
 
 > /.git/MERGE_MSG
 	*	1739171576	0
