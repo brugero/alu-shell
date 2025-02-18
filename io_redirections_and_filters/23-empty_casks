@@ -1,2 +1,3 @@
-#!bin/bash
-find . -type f -empty -exec echo {} \; -o -type d -empty -exec echo {} \; | sed 's|^\./||'
+#!/bin/bash
+find . \( -type f -empty -o -type d -empty \) -printf "%f\n"
+
