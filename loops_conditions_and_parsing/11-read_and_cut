@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script to display username, user ID, and home directory from /etc/passwd
 while IFS=':' read -r user pass uid gid gecos home shell; do
   echo "Username: $user"

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script to list directory contents (after first dash) using a for loop.
 for file in *; do  
   if [[ "$file" == *"-"* ]]; then 

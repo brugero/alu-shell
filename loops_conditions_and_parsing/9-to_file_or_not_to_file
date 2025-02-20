@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script to check information about the "school" file.
 if [ -f "school" ]; then  # Check if the file exists and is a regular file
   echo "school file exists"

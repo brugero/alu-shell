@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script to display formatted user information from /etc/passwd
 while IFS=':' read -r user pass uid gid gecos home shell; do
   echo "The user $user is part of the $gid gang, lives in $home and rides $shell."
