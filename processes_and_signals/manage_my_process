@@ -1,5 +1,17 @@
 #!/usr/bin/env bash
-# This script runs indefinitely, writing "I am alive!" to /tmp/my_process
+# This script writes "I am alive!" to /tmp/my_process indefinitely.
+
+PID_FILE="/var/run/my_process.pid"
+
+# Create the PID file
+echo $$ > "$PID_FILE"
+
+# Handle signals
+trap "echo 'I hate the kill command'; exit" SIGTERM
+trap "echo 'Y U no love me?!'; exit" SIGINT
+trap "rm -f $PID_FILE; exit" SIGQUIT SIGTERM
+
+# Infinite loop writing to /tmp/my_process
 while true; do
     echo "I am alive!" >> /tmp/my_process
     sleep 2
