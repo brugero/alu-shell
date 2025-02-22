@@ -1,38 +1,38 @@
 #!/usr/bin/env bash
-# This script manages the process of manage_my_process.sh (start, stop, restart)
+# This script manages the manage_my_process daemon
 
-PROCESS_NAME="manage_my_process.sh"
+PROCESS_NAME="manage_my_process"
 PID_FILE="/var/run/my_process.pid"
 
-start_process() {
+start() {
     if [ -f "$PID_FILE" ]; then
-        echo "Process already running."
+        echo "$PROCESS_NAME is already running"
         exit 1
     fi
-    nohup ./manage_my_process.sh &> /dev/null &
+    nohup ./"$PROCESS_NAME" &> /dev/null &
     echo $! > "$PID_FILE"
-    echo "manage_my_process started"
+    echo "$PROCESS_NAME started"
 }
 
-stop_process() {
+stop() {
     if [ ! -f "$PID_FILE" ]; then
-        echo "Process not running."
+        echo "$PROCESS_NAME is not running"
         exit 1
     fi
     kill "$(cat "$PID_FILE")" && rm -f "$PID_FILE"
-    echo "manage_my_process stopped"
+    echo "$PROCESS_NAME stopped"
 }
 
-restart_process() {
-    stop_process
-    start_process
-    echo "manage_my_process restarted"
+restart() {
+    stop
+    start
+    echo "$PROCESS_NAME restarted"
 }
 
 case "$1" in
-    start) start_process ;;
-    stop) stop_process ;;
-    restart) restart_process ;;
-    *) echo "Usage: manage_my_process {start|stop|restart}"; exit 1 ;;
+    start) start ;;
+    stop) stop ;;
+    restart) restart ;;
+    *) echo "Usage: $0 {start|stop|restart}" ;;
 esac
 
